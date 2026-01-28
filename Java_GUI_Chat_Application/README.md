@@ -1,6 +1,6 @@
 # Java GUI Chat Application
 
-A simple Java client-server chat application using Swing and Socket programming.
+A Java client-server chat application using Swing and Socket programming.
 
 ## Features
 - GUI-based client and server
@@ -18,4 +18,4 @@ A simple Java client-server chat application using Swing and Socket programming.
 3. Server runs on port 5100
 
 ## Author
-Tejas Sutar
+Tejas Pradip Sutar
